@@ -6,7 +6,7 @@
 ::				██║ ╚████║██╔╝ ██╗   ██║   ███████║   ██║   ███████║
 ::				╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝
 ::
-:: title   : Script adb wifi 
+:: title   : Script adb over wifi 
 :: script  : batch (.bat) or (.cmd)
 :: Dev     : NxtSys / @Number666
 :: Test on : Windows 10 (Version 1703)
